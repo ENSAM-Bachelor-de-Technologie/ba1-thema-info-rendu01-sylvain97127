@@ -12,11 +12,11 @@ generate_cat_pics()
 	touch .hidden_file01 .hidden_file02
 }
 
-rm -rf /home/pi/bash1_thema_info/SHELL_SHOCKED/rendu01/src/
+rm -rf /home/pi/ba1_thema_info/SHELL_SHOCKED/rendu01/src/
 clear
 echo "initializing..."; tput setaf 2; echo "[SUCCESS]"; tput setaf 7;
-mkdir /home/pi/bash1_thema_info/SHELL_SHOCKED/rendu01/src/
+mkdir /home/pi/ba1_thema_info/SHELL_SHOCKED/rendu01/src/
 echo "creating src folder..."; tput setaf 2; echo "[SUCCESS]"; tput setaf 7;
-cd /home/pi/bash1_thema_info/SHELL_SHOCKED/rendu01/src/
+cd /home/pi/ba1_thema_info/SHELL_SHOCKED/rendu01/src/
 generate_cat_pics
 tput setaf 2; echo "[SUCCESS]"; tput setaf 7;
