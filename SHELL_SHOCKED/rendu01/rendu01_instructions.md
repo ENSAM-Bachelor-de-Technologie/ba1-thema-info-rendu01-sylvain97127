@@ -22,7 +22,7 @@ PART ONE
 
 1) Renomer les 5 fichers dans le dossier <src>:
    catpic_01.jpg, catpic_02.jpg, catpic_03.jpg, catpic_04.jpg, catpic_05.jpg
-2) Creer un nouveau dossier nommé <Catpics>
+2) Creer un nouveau dossier nommé <catpics>
 3) Copier les 5 images du dossier <src> dans le dossier <Catpics>
 4) Suprimer les deux fichiers cachées dans <src>
 5) Renommer le dossier <src> pour le cacher (il ne doit plus etre visible avec la command ls)
@@ -36,8 +36,8 @@ PART TWO
 	fim -a [nom d'image]	
 
 7) Dans le script a rendre, Creez un nouveau fichier text nommé <favorite.txt>
-8) Ecrire dans ce fichier la phrase: "My name is "[votre prenom]" and my favorite cat pic is [votre choix, ex: catpic_01]".
-9) Imprimer le contenu du fichier <favorite.txt> au console avec echo ou printf
+8) Ecrire dans ce fichier la phrase: "My name is "[votre prenom]" and my favorite cat pic is [votre choix, ex: catpic_01]"
+9) Afficher le contenu du fichier <favorite.txt> au console
 
 EXTRA CHALLENGE
 

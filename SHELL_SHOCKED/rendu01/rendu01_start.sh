@@ -13,6 +13,7 @@ generate_cat_pics()
 }
 
 rm -rf /home/pi/ba1_thema_info/SHELL_SHOCKED/rendu01/src/
+rm -rf /home/pi/ba1_thema_info/SHELL_SHOCKED/rendu01/.src/
 clear
 echo "initializing..."; tput setaf 2; echo "[SUCCESS]"; tput setaf 7;
 mkdir /home/pi/ba1_thema_info/SHELL_SHOCKED/rendu01/src/
