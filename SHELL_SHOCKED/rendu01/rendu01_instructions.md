@@ -9,8 +9,9 @@ Vous pouvez cloner le repertoire avec la commande:
 
 	git clone git@github.com:j-blanks/ba1_thema_info.git
 
-Pour démarrer, lance le script dans le dossier <rendu01> avec la commande:
-	
+Pour démarrer, lance le script dans le dossier <rendu01> avec la commande en bas. 
+Vous devriez etre dans /home/pi/ba1_thema_info/SHELL_SHOCKED/rendu01/
+
 	bash rendu01_start.sh
 
 Pour le rendu01, vous allez rendre un script appelé "rendu01_NOM.sh"
